@@ -1,0 +1,11 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#content {
+    margin-top: 5rem;
+}
+
+.content-scroll {
+    margin-top: 9rem !important;
+}
