@@ -1,4 +1,4 @@
-# Barre de navigation annimé !
+# Barre de navigation animée !
 *conçus par **Stians**.*
 
 ### La navbar :
